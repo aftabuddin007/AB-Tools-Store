@@ -28,6 +28,7 @@ const navlinkClass = ({isActive})=>
       <NavLink to='/products' className={navlinkClass}><a >Apps</a></NavLink>
       
       <NavLink to='/install' className={navlinkClass}><a >Installation</a></NavLink>
+      <NavLink to='/about' className={navlinkClass}><a >About</a></NavLink>
       </ul>
     </div>
     <div className='flex'>
@@ -42,6 +43,8 @@ const navlinkClass = ({isActive})=>
       <NavLink to='/products' className={navlinkClass}><a >Apps</a></NavLink>
       
       <NavLink to='/install' className={navlinkClass}><a >Installation</a></NavLink>
+      <NavLink to='/about' className={navlinkClass}><a >About</a></NavLink>
+
     </ul>
   </div>
   <div className="navbar-end ">

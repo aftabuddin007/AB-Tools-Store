@@ -8,6 +8,7 @@ import Banner from '../pages/Banner/Banner';
 import ProductDetails from '../pages/ProductDetails/ProductDetails';
 import AllError from '../AllError/AllError';
 import Loading from '../pages/Loading/Loading';
+import About from '../pages/About/About';
 
 const router = createBrowserRouter([{
  path:'/',
@@ -29,6 +30,9 @@ const router = createBrowserRouter([{
 },{
   path:'/productDetail/:id',
   element:<ProductDetails></ProductDetails>
+},{
+  path:"/about",
+  element:<About></About>
 }
   ]
 },{
@@ -37,16 +41,3 @@ const router = createBrowserRouter([{
 }
 ])
 export default router
-// import { createBrowserRouter, RouterProvider } from 'react-router'
-// import Root from './Layout/Root.jsx'import { createBrowserRouter, RouterProvider } from 'react-router'
-// import Root from './Layout/Root.jsx'
-
-
-
-
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <Root></Root>,
-//   },
-// ]);
