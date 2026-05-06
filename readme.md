@@ -14,13 +14,13 @@ This project focuses on **clean UI, performance, and real-world frontend archite
 
 ## ✨ Key Features
 
-- 🔍 **Explore Apps** – Browse a variety of applications with a clean UI  
-- 📊 **Detailed Insights** – View app details with interactive charts  
-- ⚡ **Install / Uninstall System** – Manage apps dynamically  
-- 💾 **Persistent Storage** – Uses localStorage to track installed apps  
-- 🔎 **Live Search & Sorting** – Quickly find and organize apps  
-- 📱 **Responsive Design** – Works smoothly on mobile & desktop  
-- 🔄 **Smooth Navigation** – Seamless page transitions using React Router  
+- 🔍 **Explore Apps** – Browse a variety of applications with a clean UI.  
+- 📊 **Detailed Insights** – View app details with interactive charts.  
+- ⚡ **Install / Uninstall System** – Manage apps dynamically . 
+- 💾 **Persistent Storage** – Uses localStorage to track installed apps . 
+- 🔎 **Live Search & Sorting** – Quickly find and organize apps . 
+- 📱 **Responsive Design** – Works smoothly on mobile & desktop.  
+- 🔄 **Smooth Navigation** – Seamless page transitions using React Router . 
 
 ---
 
@@ -65,11 +65,11 @@ This project focuses on **clean UI, performance, and real-world frontend archite
 
 ## 🚧 Future Improvements
 
-- 🔐 Authentication system (login/signup)  
-- 🌐 Backend integration (API-based data)  
-- 🧾 User profiles & app reviews  
-- 📊 Advanced analytics dashboard  
-- ⚡ Performance optimization & lazy loading  
+- 🔐 Authentication system (login/signup).  
+- 🌐 Backend integration (API-based data).  
+- 🧾 User profiles & app reviews . 
+- 📊 Advanced analytics dashboard.  
+- ⚡ Performance optimization & lazy loading.  
 
 ---
 
