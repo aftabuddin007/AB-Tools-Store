@@ -8,7 +8,7 @@ const ProductCard = ({pro}) => {
     return (
         <Link to={`/productDetail/${id}`} key={pro.id} className='shadow-lg rounded-md hover:scale-105 transition ease-in-out cursor-pointer'>
             <div className="    p-4">
-  <figure className="h-[250px] w-[250px] p-3 bg-gray-300 ">
+  <figure className="h-[250px] w-[250px] p-3 bg-gray-300 p-4 ">
     <img
       src={image}
       alt="Shoes"
