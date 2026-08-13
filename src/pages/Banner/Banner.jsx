@@ -5,6 +5,7 @@ import hero from '../../assets/hero.png'
 import HeroBanner from '../HeroBanner/HeroBanner';
 import Home from '../Home/Home';
 import { Link, Links } from 'react-router';
+import WhyChooseUs from '../../Components/WhychooseUs';
 const Banner = () => {
     return (
      <div >
@@ -28,6 +29,7 @@ App Store</Link>
 
 <HeroBanner></HeroBanner>
 <Home></Home>
+<WhyChooseUs></WhyChooseUs>
      </div>
 
     )
