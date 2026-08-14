@@ -43,7 +43,7 @@ const WhyChooseUs = () => {
       </div>
 
       {/* Content Container */}
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+      <div className="relative z-10 px-10 max-w-7xl mx-auto  sm:px-6 lg:px-8 py-20">
         
         {/* Header */}
         <div className="text-center max-w-2xl mx-auto mb-16">
