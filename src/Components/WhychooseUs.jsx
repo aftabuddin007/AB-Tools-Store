@@ -56,7 +56,7 @@ const WhyChooseUs = () => {
         </div>
 
         {/* Feature Cards Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-4">
           {features.map((feature) => (
             <div 
               key={feature.id} 
