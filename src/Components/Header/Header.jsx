@@ -44,6 +44,7 @@ const navlinkClass = ({isActive})=>
       
       <NavLink to='/install' className={navlinkClass}><a >Installation</a></NavLink>
       <NavLink to='/about' className={navlinkClass}><a >About</a></NavLink>
+      <NavLink to='/Menu' className={navlinkClass}><a >Menu</a></NavLink>
 
     </ul>
   </div>
