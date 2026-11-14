@@ -35,7 +35,7 @@ const WhyChooseUs = () => {
   ];
 
   return (
-    <section className="relative w-full">
+    <section className="relative w-full mt-10">
       {/* Split Background: Violet top, White bottom */}
       <div className="absolute inset-0 z-0 flex flex-col">
         <div className="h-3/5 w-full bg-violet-700"></div>
